@@ -57,3 +57,9 @@ echo Agent pid 2072;
 　　提示：Hi xxx! You've successfully authenticated, but GitHub does not provide shell  access.
 
 　　这时候你的问题就解决啦，可以使用命令 git clone yy git@github.com:test.git 去下载你的代码
+
+	7>在git上添加文件夹 ：git add +文件名称
+	执行：git commit -m "first commit"
+	添加备注。
+	执行：git push -u origin master
+	提交文件。
